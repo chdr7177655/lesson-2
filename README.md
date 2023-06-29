@@ -1,1 +1,1 @@
-# lesson-2, welcome to ecom!
+#welcome to ecom!
